@@ -9,7 +9,6 @@ A full-stack web application for uploading, viewing, and deleting images. Built 
 - Delete images with one click
 - Progress indicator during upload
 - Responsive design for mobile and desktop
-- In-memory image storage (no database required)
 
 ## Setup Instructions
 
